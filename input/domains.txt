@@ -1,0 +1,5 @@
+google.com
+bin.go.id
+komdigi.go.id
+pajak.go.id
+kemenkeu.go.id

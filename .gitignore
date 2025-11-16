@@ -1,0 +1,13 @@
+# Log files (jangan upload log yang sudah ada isinya)
+logs/*.log
+
+# Output files (jangan upload hasil scan)
+output/*.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
