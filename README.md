@@ -9,7 +9,7 @@ bash
 
 git clone https://github.com/caixuekang777-sys/recon-automation-Samuel.git
 
-cd recon-automation-alief
+cd recon-automation-Samuel
 
 # Install Subfinder
 go install -v [github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest](https://github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest)
